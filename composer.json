@@ -1,5 +1,5 @@
 {
-    "name": "https://github.com/thatsus/ct_bootstrap_wizard.git",
+    "name": "thatsus/ct_bootstrap_wizard.git",
     "repositories": [
         {
             "type": "vcs",
