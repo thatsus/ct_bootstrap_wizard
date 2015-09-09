@@ -1,0 +1,9 @@
+{
+    "name": "https://github.com/thatsus/ct_bootstrap_wizard.git",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com:thatsus/ct_bootstrap_wizard.git"
+        }
+    ]
+}
