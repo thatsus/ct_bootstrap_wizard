@@ -1,20 +1,3 @@
-
-.form-control::-moz-placeholder{
-   color: #DDDDDD;
-   opacity: 1;
-}
-.form-control:-moz-placeholder{
-   color: #DDDDDD;
-   opacity: 1;  
-}  
-.form-control::-webkit-input-placeholder{
-   color: #DDDDDD;
-   opacity: 1; 
-} 
-.form-control:-ms-input-placeholder{
-   color: #DDDDDD;
-   opacity: 1; 
-}
 /*     General overwrite     */
 a{
     color: #2CA8FF;
